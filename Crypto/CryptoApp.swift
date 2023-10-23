@@ -2,7 +2,7 @@
 //  CryptoApp.swift
 //  Crypto
 //
-//  Created by Jhon Diaz on 17/10/23.
+//  Created by Jhon Diaz on 16/10/23.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CryptoView()
         }
     }
 }
